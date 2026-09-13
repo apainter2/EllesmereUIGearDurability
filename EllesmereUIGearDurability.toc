@@ -1,0 +1,11 @@
+## Interface: 120100
+## Title: |cff0cd29fEllesmereUI|r - Gear Durability
+## Notes: Independently movable lowest gear durability display. Configure with /egd.
+## Author: Andrew Painter
+## Version: 0.1.0
+## RequiredDeps: EllesmereUI
+## SavedVariablesPerCharacter: EllesmereUIGearDurabilityDB
+## IconTexture: Interface\Icons\Trade_BlackSmithing
+
+Durability.lua
+Options.lua
