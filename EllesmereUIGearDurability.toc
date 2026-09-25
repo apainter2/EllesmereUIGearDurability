@@ -2,7 +2,7 @@
 ## Title: |cff0cd29fEllesmereUI|r - Gear Durability
 ## Notes: Independently movable lowest gear durability display. Configure with /egd.
 ## Author: Andrew Painter
-## Version: 0.1.1
+## Version: 0.1.2
 ## RequiredDeps: EllesmereUI
 ## SavedVariablesPerCharacter: EllesmereUIGearDurabilityDB
 ## IconTexture: Interface\Icons\Trade_BlackSmithing

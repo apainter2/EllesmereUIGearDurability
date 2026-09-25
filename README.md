@@ -18,8 +18,8 @@ It reports durability; it does not repair gear automatically.
 
 ## Requirements and installation
 
-1. Install **EllesmereUI v9.2.2** (or v9.2.1). This release was checked against both versions and declares the 12.1 client interface (`120100`).
-2. Download **EllesmereUIGearDurability-v0.1.0.zip** from Releases.
+1. Install **EllesmereUI v9.2.9**. This release was checked against that version and declares the 12.1 client interface (`120100`).
+2. Download **EllesmereUIGearDurability-v0.1.2.zip** from Releases.
 3. Extract the `EllesmereUIGearDurability` folder into `World of Warcraft/_retail_/Interface/AddOns/`.
 4. Restart WoW if it was running, then enable the addon in the character-selection AddOns list.
 5. Type **`/egd`**, tick **Enable display**, and use **Move in Unlock Mode** to position it.
