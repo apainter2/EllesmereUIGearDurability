@@ -1,5 +1,7 @@
 # EllesmereUI - Gear Durability
 
+> **Archived:** EllesmereUI's built-in DataBars functionality can provide the same durability display. This standalone companion is no longer maintained; use DataBars for new installations and remove this add-on to avoid duplicate readouts.
+
 A standalone companion addon for World of Warcraft Retail (Midnight 12.1), based on Andrew Painter's [EllesmereUI PR #1635](https://github.com/EllesmereGaming/EllesmereUI/pull/1635). Use the durability display while the proposed integrated feature is awaiting review.
 
 **[Download the latest release](https://github.com/apainter2/EllesmereUIGearDurability/releases/latest)**
